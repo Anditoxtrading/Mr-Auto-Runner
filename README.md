@@ -1,4 +1,4 @@
-# 🤖 Bot de Trading ML – Bybit Futures (Order Book Binance)
+# 🤖 Bot de Trading con ML – opera en Bybit Futures analiza el Order Book Binance
 
 Bot de **trading automatizado** que utiliza **Machine Learning** para analizar el **order book de Binance** en tiempo real y ejecutar operaciones en **Bybit Futures**, incorporando **gestión de riesgo avanzada** y **alertas por Telegram**.
 
