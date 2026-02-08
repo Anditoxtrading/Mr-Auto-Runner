@@ -30,7 +30,7 @@ Bot de **trading automatizado** que utiliza **Machine Learning** para analizar e
 
 - Python **3.8 o superior**
 - Cuenta de **Bybit** con API habilitada
-- Bot de **Telegram** (opcional, para notificaciones)
+- Bot de **Telegram**
 
 ---
 
