@@ -40,4 +40,18 @@ Bot de **trading automatizado** que utiliza **Machine Learning** para analizar e
 
 ```bash
 pip install pybit python-binance websocket-client fastapi uvicorn pyTelegramBotAPI requests joblib scikit-learn
----
+```
+### 2️⃣ Configurar archivo config.py
+
+Configurar API Keys
+Edita el archivo config.py y agrega tus credenciales:
+
+```bash
+# API de Bybit
+api_key = 'TU_API_KEY_AQUI'
+api_secret = 'TU_API_SECRET_AQUI'
+
+# Bot de Telegram (opcional)
+token_telegram = 'TU_TOKEN_TELEGRAM_AQUI'
+chat_id = 'TU_CHAT_ID_AQUI'
+```
